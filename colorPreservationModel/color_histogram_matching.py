@@ -12,8 +12,8 @@ content image.
 import numpy as np
 import imageio
 
-CONTENT_IMAGE_NAME = "blagaj.jpg"
-STYLE_IMAGE_NAME = "StarryNightOverTheRoneVanGogh.jpg"
+CONTENT_IMAGE_NAME = "terrace.jpg"
+STYLE_IMAGE_NAME = "monet.jpg"
 
 
 class ColorHistogramMatching(object):

@@ -10,8 +10,8 @@ import numpy as np
 import cv2
 from utils import mean_std_dev
 
-CONTENT_IMAGE_NAME = "blagaj.jpg"
-STYLE_IMAGE_NAME = "StarryNightOverTheRoneVanGogh.jpg"
+CONTENT_IMAGE_NAME = "terrace.jpg"
+STYLE_IMAGE_NAME = "monet.png"
 
 LOGARITHMIC_COLOR_SPACE = cv2.COLOR_BGR2LAB
 RGB_COLOR_SPACE = cv2.COLOR_LAB2BGR
